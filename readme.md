@@ -1,1 +1,1 @@
-repositorio para practicacrear un coso de 
+Practica de programacion orientado a objetos
